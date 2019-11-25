@@ -1,8 +1,3 @@
-<%-- 
-    Document   : welcome
-    Created on : Nov 20, 2019, 7:46:42 AM
-    Author     : tufanb
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
